@@ -1,0 +1,5 @@
+> test exception load_dotenv()
+    create try-except
+> test run script in other directory
+> test custom teg while setup() :
+    ./cp.py setup --custom demo
